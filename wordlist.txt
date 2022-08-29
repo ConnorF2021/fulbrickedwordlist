@@ -1,0 +1,8 @@
+privacy
+login
+aboutus
+register
+services
+store
+comingsoon
+employeelogin
